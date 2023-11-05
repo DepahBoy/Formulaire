@@ -1,0 +1,39 @@
+
+img{
+   margin: 15px;
+   padding: 15px;
+    width: 70px;
+    height: 70px;
+}
+body{
+    background-color: rgb(216, 220, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(5, 5, 5);
+}
+#phone {
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    margin-left: 5px;
+    border: 1px solid #947493;
+}
+#name{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 4px;
+    margin-left: 5px;
+}
+#Statut {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 4px;
+    margin-left: 5px;
+}
+.container {
+    max-width: 1200px;
+    padding: 100px;
+    margin: 100px;
+}
+
+
